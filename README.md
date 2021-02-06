@@ -1,0 +1,2 @@
+# pokedex
+Shows different Pokemon
